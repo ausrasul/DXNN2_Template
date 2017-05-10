@@ -1,0 +1,4 @@
+[{<<"dxnn2">>,
+  {git,"git://github.com/ausrasul/DXNN2.git",
+       {ref,"dbcf07bad62878d6a916dd765f0f0cdcb24e42a7"}},
+  0}].
